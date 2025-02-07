@@ -1,1 +1,1 @@
-docker.ui
+gohutool/docker.ui:latest
