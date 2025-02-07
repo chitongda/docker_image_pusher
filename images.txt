@@ -1,1 +1,1 @@
-jnnyan404/docker-ui
+gohutool/docker.ui
