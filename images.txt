@@ -1,2 +1,2 @@
-chitongda/docker.ui:latest
+ubuntu:latest
 
