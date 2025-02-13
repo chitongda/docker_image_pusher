@@ -1,2 +1,2 @@
-portainer-cn:latest
+outlovecn/portainer-cn
 
