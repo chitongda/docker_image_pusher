@@ -1,2 +1,3 @@
 outlovecn/portainer-cn
+devopskudelabs/comfyui:v3
 
