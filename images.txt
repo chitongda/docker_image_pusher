@@ -1,4 +1,21 @@
-outlovecn/portainer-cn
-devopskudelabs/comfyui:v3
-pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
+BASE_IMAGE=pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
+            GIT_VERSION=default
+            TORCH_VERSION=2.1.0
+            TORCHSDE_VERSION=0.2.5
+            TORCHVISION_VERSION=0.16.0
+            TORCHAUDIO_VERSION=2.1.0
+            NUMPY_VERSION=1.26.2
+            EINOPS_VERSION=0.6.1
+            TRANSFORMERS_VERSION=4.36.2
+            TOKENIZERS_VERSION=0.15.0
+            SENTENCEPIECE_VERSION=0.1.99
+            SAFETENSORS_VERSION=0.4.2
+            AIOHTTP_VERSION=3.8.6
+            PYYAML_VERSION=6.0.1
+            PILLOW_VERSION=10.1.0
+            SCIPY_VERSION=1.11.4
+            TQDM_VERSION=4.66.1
+            PSUTIL_VERSION=5.9.6
+            KORNIA_VERSION=0.7.1
+            SOUNDFILE_VERSION=0.12.1
 
