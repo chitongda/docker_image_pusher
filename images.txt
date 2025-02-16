@@ -1,4 +1,4 @@
-BASE_IMAGE=pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
+pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
             GIT_VERSION=default
             TORCH_VERSION=2.1.0
             TORCHSDE_VERSION=0.2.5
