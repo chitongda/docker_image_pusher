@@ -1,1 +1,1 @@
-obeliks/comfyui:sha-1af11ba-rocm6.2
+shawoo/cosyvoice
