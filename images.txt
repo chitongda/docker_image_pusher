@@ -1,1 +1,1 @@
-yanwk/comfyui-boot:cu121-megapak-20250217
+yanwk/comfyui-boot:cu121-20250216
