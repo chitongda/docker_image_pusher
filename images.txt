@@ -1,1 +1,1 @@
-shawoo/cosyvoice
+shawoo/cosyvoice:v2.0.0
