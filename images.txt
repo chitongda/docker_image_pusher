@@ -1,1 +1,1 @@
-shawoo/cosyvoice:v2.0.0
+yanwk/comfyui-boot:cu121-megapak-20250217
