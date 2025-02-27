@@ -1,1 +1,1 @@
-yanwk/comfyui-boot:cu121-20250216
+ollama/ollama:lates
