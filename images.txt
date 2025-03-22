@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.03-py3
+yanwk/comfyui-boot:cu124-cn
