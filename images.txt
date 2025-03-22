@@ -1,1 +1,1 @@
-obeliks/comfyui:sha-243e9cc-cu124
+nvcr.io/nvidia/pytorch:24.03-py3
